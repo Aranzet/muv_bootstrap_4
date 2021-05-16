@@ -4,4 +4,4 @@
 
 Ссылка на сайт: https://aranzet.github.io/muv_bootstrap_4/
 
-![HomePage](home.jpg?raw=true "Главная страница")
+![HomePage](home.jfif?raw=true "Главная страница")
